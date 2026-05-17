@@ -210,6 +210,6 @@ MIT License - Feel free to use this for your own learning journey!
 ---
 
 <p align="center">
-  <b>Happy coding! 🚀</b><br>
+  <b>Prince Maurya 🚀</b><br>
   <i>From zero to full-stack developer</i>
 </p>
